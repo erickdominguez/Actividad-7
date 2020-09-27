@@ -1,0 +1,19 @@
+.res {
+    width: 412px;
+    height: 100px;
+    background-color: rgb(10, 10, 141);
+    
+}
+
+#resultado{
+    color: #FFF;
+    margin-left: 250px;
+    font-size: 20pt;
+}
+
+.numeros{
+    margin-left: -1px;
+    margin-right: -4px;
+    margin-bottom: -4px;
+}
+
